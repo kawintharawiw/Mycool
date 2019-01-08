@@ -1,0 +1,8 @@
+<button type="button" class="navbar-toggle">
+<span class="sr-only">Toggle sidebar &amp; navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+
+<svg class="icon icon-instagram" aria-hidden="true" role="img"> <use href="#icon-instagram" xlink:href="#icon-instagram"></use> </svg>
